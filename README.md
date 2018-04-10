@@ -14,11 +14,7 @@ Finally we discussed the use of built-in NSArray and NSMutableArray classes. The
 
 
 Today’s keywords are here:
-
-
-and our class repo can be found at:
-https://github.com/AmirJahan/Command-Line-Basics-ObjC
-
+![alt text](https://github.com/AmirJahan/Command-Line-Basics-ObjC/blob/master/Week%201%20day%202.png)
 
 
 
