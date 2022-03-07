@@ -1,6 +1,4 @@
-Hello everyone, 
-
-It was great meeting you all this morning. Today we talked about OOP, variables, scopes, programming languages, syntax and logic as well as the classes and objects. 
+This lesson covers OOP, variables, scopes, programming languages, syntax and logic as well as the classes and objects. 
 
 We looked at using ObjC to organize and modularize our code. 
 
